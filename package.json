@@ -29,7 +29,7 @@
     "del": "~3.0.0",
     "gulp": "~3.9.1",
     "gulp-inline-ng2-template": "~4.0.0",
-    "gulp-merge-json": "^1.1.0",
+    "gulp-merge-json": "1.2.1",
     "gulp-plumber": "^1.1.0",
     "html-minifier": "~3.5.3",
     "node-sass": "~4.5.3",
